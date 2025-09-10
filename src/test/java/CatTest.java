@@ -7,6 +7,7 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
+//
 public class CatTest {
 
     private Cat cat;
@@ -34,3 +35,4 @@ public class CatTest {
     }
 
 }
+

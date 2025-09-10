@@ -2,6 +2,7 @@ package com.example;
 
 import java.util.List;
 
+//
 public class Lion {
 
     boolean hasMane;
@@ -35,3 +36,4 @@ public class Lion {
         return feline.getFood("Хищник");
     }
 }
+
